@@ -1,0 +1,23 @@
+{
+  "collection":{
+     "href":"https://images-api.nasa.gov/asset/ARC-1971-AC71-3102",
+     "items":[
+        {
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/ARC-1971-AC71-3102~orig.jpg"
+        },
+        {
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/ARC-1971-AC71-3102~medium.jpg"
+        },
+        {
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/ARC-1971-AC71-3102~small.jpg"
+        },
+        {
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/ARC-1971-AC71-3102~thumb.jpg"
+        },
+        {
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/metadata.json"
+        }
+     ],
+     "version":"1.0"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "collection":{
+     "metadata":{
+        "total_hits":3
+     },
+     "items":[
+        {
+           "data":[
+              {
+                 "center":"ARC",
+                 "media_type":"image",
+                 "date_created":"1971-02-08T00:00:00Z",
+                 "title":"ARC-1971-AC71-3102",
+                 "nasa_id":"ARC-1971-AC71-3102",
+                 "keywords":[
+                    "Hovercraft"
+                 ],
+                 "photographer":"Jim Remington",
+                 "description":"Hovercraft surface evvect vehicle No.03 model SK-5 (S/N015)"
+              }
+           ],
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/collection.json",
+           "links":[
+              {
+                 "render":"image",
+                 "rel":"preview",
+                 "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3102/ARC-1971-AC71-3102~thumb.jpg"
+              }
+           ]
+        },
+        {
+           "data":[
+              {
+                 "center":"ARC",
+                 "media_type":"image",
+                 "date_created":"1971-02-08T00:00:00Z",
+                 "title":"ARC-1971-AC71-3101",
+                 "nasa_id":"ARC-1971-AC71-3101",
+                 "keywords":[
+                    "Hovercraft"
+                 ],
+                 "photographer":"Jim Remington",
+                 "description":"Hovercraft surface evvect vehicle No.03 model SK-5 (S/N015)"
+              }
+           ],
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3101/collection.json",
+           "links":[
+              {
+                 "render":"image",
+                 "rel":"preview",
+                 "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3101/ARC-1971-AC71-3101~thumb.jpg"
+              }
+           ]
+        },
+        {
+           "data":[
+              {
+                 "center":"ARC",
+                 "media_type":"image",
+                 "date_created":"1971-02-08T00:00:00Z",
+                 "title":"ARC-1971-AC71-3104",
+                 "nasa_id":"ARC-1971-AC71-3104",
+                 "keywords":[
+                    "Hovercraft"
+                 ],
+                 "photographer":"Jim Remington",
+                 "description":"Hovercraft surface evvect vehicle No.03 model SK-5 (S/N015)"
+              }
+           ],
+           "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3104/collection.json",
+           "links":[
+              {
+                 "render":"image",
+                 "rel":"preview",
+                 "href":"https://images-assets.nasa.gov/image/ARC-1971-AC71-3104/ARC-1971-AC71-3104~thumb.jpg"
+              }
+           ]
+        }
+     ],
+     "href":"https://images-api.nasa.gov/search?q=sk&media_type=image",
+     "version":"1.0"
+  }
+}
