@@ -1,4 +1,4 @@
-## sainsburys-nasa-image-search
+## nasa-image-search
 
 This project was created as a solution to the following task: https://jsainsburyplc.github.io/front-end-test
 
